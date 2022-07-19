@@ -1,0 +1,3 @@
+#!C:\Users\alfre\PycharmProjects\pythonProject5\venv\Scripts\python.exe
+from numba.pycc import main
+main()
